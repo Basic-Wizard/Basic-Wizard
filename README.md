@@ -7,9 +7,6 @@ Python
 Bash
 R
 
-- 🔭 I’m currently working on Bioinfo.py 
-- 🌱 I’m currently learning Machine Learning 
-
 <br>
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Basic-Wizard)  
