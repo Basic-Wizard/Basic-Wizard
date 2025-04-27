@@ -1,12 +1,14 @@
-### Keenan Raleigh
-#### Bioinformatician
-I'm Keenan Raleigh,an aspiring bioinformatician having just completed my masters degree at the University of Orgon. I have worked in genetics labs, chemistry labs and in technical support for LGC supporting a number of their biological assay tools. I am Excited to expand my knowledge of coding, computer sciences, and bioinformatics!
-I have developed, maintained and troubleshooted many bioinformatics pipelines in both academic and industry settings. I have extensive experience with bioinformatics tools such as BWA, SAMtools, STAR, NCBI databases and various BLAST applications. 
+# Keenan Raleigh  
+### Freelance Bioinformatician | Wandering Data Wizard
 
-### Skills:   
-Python  
-Bash  
-R  
+Greetings, traveler! I am **Keenan Raleigh**, a freelance bioinformatician and humble servant of the Great Codex of Genomics.  
+With scrolls of knowledge earned from the University of Oregon and quests completed across genetics labs, chemistry workshops, and the halls of technical support, I now ply my craft wherever curious data beckons.
+
+I have conjured, maintained, and mended many a bioinformatics pipeline, both in the scholarly towers of academia and the bustling markets of industry.  
+My tools are varied, my experience vast, and my passion endless. Whether it is genomes to be aligned, mysteries hidden in vast databases, or tangled scripts in need of unweaving, I am always eager for the next grand adventure.
+
+Should you require a data wizard to aid your journey — you need only call.
+
 
 <br>
 
